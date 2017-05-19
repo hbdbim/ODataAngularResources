@@ -1003,4 +1003,4 @@ factory('$odata', ['$odataBinaryOperation','$odataProvider','$odataValue',
 			OrderBy : ODataOrderByStatement,
 		};
 
-	}]);
+	}]); 
